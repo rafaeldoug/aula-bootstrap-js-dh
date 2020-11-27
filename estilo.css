@@ -1,3 +1,9 @@
 #corpo {
   background-color: aliceblue;
 }
+
+.titulo-novo {
+  margin-top: 35px;
+  font-weight: 700;
+  font-size: 28px;
+}
