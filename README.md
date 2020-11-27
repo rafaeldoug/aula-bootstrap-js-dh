@@ -14,7 +14,7 @@ Durante a aula, nosso instrutor [Léo Carvalho](https://github.com/carvalholeo/a
 #### > Capturar nome, idade e profissão; e
 #### > Exibir uma caixa de confirmação, perguntando se os dados estão corretos. Se estiverem, colocar no HTML e emitir um alert avisando que não dá mais para mudar. Se não estiverem, reiniciar a coleta.
 
-Uma abordagem direta foi a de utilizar uma _function_ responsável em pegar estes dados via a função _prompt()_ e através de uma iteração, caso as informações não fossem confirmadas, através do _confirm()_, seria solicitado ao usuário que inserisse novamente as informações.
+Uma abordagem direta foi a de utilizar uma _function_ responsável em pegar estes dados via a função _prompt()_ e através de uma iteração. Caso as informações não fossem confirmadas, através do _confirm()_, seria solicitado ao usuário que inserisse novamente as informações.
 
 ```javascript
 function getDados() {
