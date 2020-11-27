@@ -83,6 +83,5 @@ document.querySelector('main').classList.add('container');
 
 ###### **Este código foi feito no intuito de treinar aplicações do Javascript e manipulações no DOM através do mesmo. Estará em constantes alterações. Foi feito para brincar mesmo com ele. 😀👍**
 
-
-[![Digital House](https://avatars2.githubusercontent.com/u/13889417?s=280&v=4)](https://www.digitalhouse.com/br)
-[![Digital House](https://estacaohack.fb.com/wp-content/uploads/sites/55/2018/11/estacao-hack-logo.png)](https://www.digitalhouse.com/br)
+ <img src="https://avatars2.githubusercontent.com/u/13889417?s=280&v=4" alt="Logo Digital House">
+ <img src="https://estacaohack.fb.com/wp-content/uploads/sites/55/2018/11/estacao-hack-logo.png" alt="Logo Estação Hack from Facebook">
