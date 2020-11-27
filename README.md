@@ -42,7 +42,7 @@ function getDados() {
 Utilizando o objeto _document_ com o _querySelector_ e _innerHTML_ concatenando com os valores já existentes.
 
 ```javascript
-document.querySelector('.lista-dados').innerHTML += `<li>Tamanho atual da tela: <strong>${windowWidth} x ${windowHeight}</li>`;
+document.querySelector('#lista-dados').innerHTML += `<li>Tamanho atual da tela: <strong>${windowWidth}</strong> x <strong>${windowHeight}</strong></li>`;
 ```
 
 #### > Capturar 3 elementos, usando seletor de id;
