@@ -37,7 +37,7 @@ let windowHeight = window.outerHeight;
 // adicionando a informação do tamanho da tela na ul
 document.querySelector('#lista-dados').innerHTML += 
 `
-<li>Tamanho atual da tela: <strong>${windowWidth} x ${windowHeight}</li>
+<li>Tamanho atual da tela: <strong>${windowWidth}</strong> x <strong>${windowHeight}</strong></li>
 `;
 
 // alterando/adicionando classe em elemento
