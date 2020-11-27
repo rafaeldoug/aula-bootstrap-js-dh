@@ -1,7 +1,7 @@
 ###### [work_in_progress]
 # Brincando com JS
 
-Durante a aula, nosso instrutor [Léo Carvalho](https://github.com/carvalholeo/aula-bootstrap-dh) solicitou que fizéssemos as seguintes tarefas, utilizando apenas Javascript :
+Durante a aula, nosso instrutor [Léo](https://github.com/carvalholeo) e o [Ivo](https://github.com/ivosoares) solicitaram que fizéssemos as seguintes tarefas, utilizando apenas Javascript :
 
 - Capturar nome, idade e profissão;
 - Exibir uma caixa de confirmação, perguntando se os dados estão corretos. Se estiverem, colocar no HTML e emitir um alert avisando que não dá mais para mudar. Se não estiverem, reiniciar a coleta;
